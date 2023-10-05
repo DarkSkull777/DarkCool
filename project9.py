@@ -6,8 +6,6 @@ from bs4 import BeautifulSoup
 import re
 from termcolor import colored  # Import modul colored
 
-os.system('git pull')
-
 def clear_screen():
     if os.name == 'posix':
         os.system('clear')
