@@ -30,21 +30,21 @@ Before you begin the installation, make sure you have the following prerequisite
 
 To install DarkCool, follow these steps:
 
-1. [Install Dependencies]:
-   pkg update && pkg upgrade
-   pkg install git
+1. [Install Dependencies]:<br>
+   pkg update && pkg upgrade<br>
+   pkg install git<br>
    pkg install python
 
-2. [Clone the Repository]: 
+2. [Clone the Repository]: <br>
    git clone https://github.com/DarkSkull777/DarkCool.git
 
-3. [Navigate to the DarkCool Directory]:
+3. [Navigate to the DarkCool Directory]:<br>
    cd DarkCool
 
-4. [Compile the Program]:
+4. [Compile the Program]:<br>
    python darkcool_setup.py
 
-5. [Run DarkCool]:
+5. [Run DarkCool]:<br>
    python darkcool.py
 
 ## Usage
