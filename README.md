@@ -2,7 +2,7 @@
 
 Welcome to the DarkCool repository!.a program that has 57 menus for carrying out activities as shown in the image below.
 
-![Screenshot](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-10-19-22-28-02-22_84d3000e3f4017145260f7618db1d683-picsay.jpg)
+![Screenshot](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-10-21-02-34-22-47_84d3000e3f4017145260f7618db1d683-picsay.jpg)
 
 ## About
 
