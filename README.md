@@ -43,7 +43,7 @@ To install DarkCool, follow these steps:
    cd DarkCool
 
 4. [Compile the Program]:<br>
-   python darkcool_setup.py
+   python setup_darkcool.py
 
 5. [Run DarkCool]:<br>
    python darkcool.py
