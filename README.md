@@ -72,4 +72,4 @@ DarkCool is released under the [MIT License](LICENSE.md). Please review the lice
 
 Enjoy using DarkCool and stay cool!
 
-![Telegram](https://t.me/xskull7)
+[Telegram](https://t.me/dymlescode)
