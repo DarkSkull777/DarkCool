@@ -70,7 +70,8 @@ We appreciate your contributions!
 
 DarkCool is released under the [MIT License](LICENSE.md). Please review the license terms before using or contributing to this project.
 
-## Contact
+## Others
 
-[Telegram](https://t.me/dymlescode)
-[Instagram](https://instagram.com/dimasrmdani10)
+DarkCool Tools is always updated all the time and will be reported on [Telegram](https://t.me/dymlescode) channel, I hope you join in to see news about DarkCool.
+
+Enjoy using DarkCool and stay cool!
