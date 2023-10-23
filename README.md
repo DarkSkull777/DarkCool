@@ -52,7 +52,7 @@ To install DarkCool, follow these steps:
 
 ## Usage
 
-Once DarkCool is installed, you can start using it by [describe how to use the program]. Here are some common commands:
+Once DarkCool is installed, you can start using it by Here are some common commands:
 
 - python setup_darkcool.py : for installing pip
 - python darkcool.py : run the darkcool program
