@@ -1,9 +1,10 @@
+
 # DarkCool
 
-Welcome to the DarkCool repository! a program that has 74 menus for carrying out activities as shown in the image below
+Welcome to the DarkCool repository! A program that offers 74 menus for various activities, as shown in the images below.
 
-![Screenshot](https://github.com/DarkSkull777/DarkCool/blob/main/IMG_20231022_103633.jpg)
-![Screenshot2](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-10-22-01-59-58-93_84d3000e3f4017145260f7618db1d683-picsay.jpg)
+![Screenshot 1](https://github.com/DarkSkull777/DarkCool/blob/main/IMG_20231022_103633.jpg)
+![Screenshot 2](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-10-22-01-59-58-93_84d3000e3f4017145260f7618db1d683-picsay.jpg)
 
 ## About
 
@@ -25,8 +26,8 @@ Welcome to the installation guide for DarkCool, a program that adds a touch of c
 
 Before you begin the installation, make sure you have the following prerequisites:
 
-- **Operating System**: <br>DarkCool is compatible with Windows, macOS, and Linux.
-- **Dependencies**: <br>You'll need [List of Dependencies] installed on your system.
+- **Operating System**: DarkCool is compatible with Windows, macOS, and Linux.
+- **Dependencies**: You'll need specific dependencies installed on your system.
 
 ## Installation
 
@@ -34,43 +35,43 @@ To install DarkCool, follow these steps:
 
 1. **Install Dependencies**:
 
-bash```
+   ```
    pkg update && pkg upgrade
    pkg install git
    pkg install python
    pip install termcolor
-```
+   ```
 
-3. **Clone the Repository**:
-   
-   bash```
+2. **Clone the Repository**:
+
+   ```
    git clone https://github.com/DarkSkull777/DarkCool.git
    ```
 
-5. **Navigate to the DarkCool Directory**:
-   
-   bash```
+3. **Navigate to the DarkCool Directory**:
+
+   ```
    cd DarkCool
    ```
 
-7. **Compile the Program**:
-   
-   bash```
+4. **Compile the Program**:
+
+   ```
    python setup_darkcool.py
    ```
 
-9. **Run DarkCool**:
-    
-   bash```
+5. **Run DarkCool**:
+
+   ```
    python darkcool.py
    ```
 
 ## Usage
 
-Once DarkCool is installed, you can start using it by Here are some common commands:
+Once DarkCool is installed, you can start using it with the following common commands:
 
-- ***python setup_darkcool.py*** : for installing pip
-- ***python darkcool.py*** : run the darkcool program
+- `python setup_darkcool.py`: Install pip.
+- `python darkcool.py`: Run the DarkCool program.
 
 ## Contributing
 
@@ -89,6 +90,6 @@ DarkCool is released under the [MIT License](LICENSE.md). Please review the lice
 
 ## Others
 
-DarkCool Tools is always updated all the time and will be reported on [Telegram](https://t.me/dymlescode) channel 
+DarkCool Tools are continually updated, and you can stay informed through our [Telegram channel](https://t.me/dymlescode).
 
-Enjoy & Stay Cool!
+Enjoy using DarkCool and stay cool!
