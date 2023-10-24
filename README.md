@@ -1,8 +1,6 @@
 # DarkCool
 
-```bash
-Welcome to the DarkCool repository! a program that has 74 menus for carrying out activities as shown in the image below.
-```
+Welcome to the DarkCool repository! a program that has 74 menus for carrying out activities as shown in the image below
 
 ![Screenshot](https://github.com/DarkSkull777/DarkCool/blob/main/IMG_20231022_103633.jpg)
 ![Screenshot2](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-10-22-01-59-58-93_84d3000e3f4017145260f7618db1d683-picsay.jpg)
@@ -27,37 +25,47 @@ Welcome to the installation guide for DarkCool, a program that adds a touch of c
 
 Before you begin the installation, make sure you have the following prerequisites:
 
-- [Operating System]: DarkCool is compatible with Windows, macOS, and Linux.
-- [Dependencies]: You'll need [List of Dependencies] installed on your system.
+- **Operating System**: <br>DarkCool is compatible with Windows, macOS, and Linux.
+- **Dependencies**: <br>You'll need [List of Dependencies] installed on your system.
 
 ## Installation
 
 To install DarkCool, follow these steps:
 
-1. [Install Dependencies]:<br>
-   pkg update && pkg upgrade<br>
-   pkg install git<br>
-   pkg install python<br>
+1. **Install Dependencies**:<br>
+bash```
+   pkg update && pkg upgrade
+   pkg install git
+   pkg install python
    pip install termcolor
+   ```
 
-2. [Clone the Repository]: <br>
+3. **Clone the Repository**: <br>
+bash```
    git clone https://github.com/DarkSkull777/DarkCool.git
+   ```
 
-3. [Navigate to the DarkCool Directory]:<br>
+5. **Navigate to the DarkCool Directory**:<br>
+bash```
    cd DarkCool
+   ```
 
-4. [Compile the Program]:<br>
+7. **Compile the Program**:<br>
+bash```
    python setup_darkcool.py
+   ```
 
-5. [Run DarkCool]:<br>
+9. **Run DarkCool**:<br>
+bash```
    python darkcool.py
+   ```
 
 ## Usage
 
 Once DarkCool is installed, you can start using it by Here are some common commands:
 
-- python setup_darkcool.py : for installing pip
-- python darkcool.py : run the darkcool program
+- ***python setup_darkcool.py*** : for installing pip
+- ***python darkcool.py*** : run the darkcool program
 
 ## Contributing
 
