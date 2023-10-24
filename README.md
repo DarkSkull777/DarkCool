@@ -32,7 +32,7 @@ Before you begin the installation, make sure you have the following prerequisite
 
 To install DarkCool, follow these steps:
 
-1. **Install Dependencies**:<br>
+1. **Install Dependencies**:
 bash```
    pkg update && pkg upgrade
    pkg install git
@@ -40,22 +40,22 @@ bash```
    pip install termcolor
    ```
 
-3. **Clone the Repository**: <br>
+3. **Clone the Repository**: 
 bash```
    git clone https://github.com/DarkSkull777/DarkCool.git
    ```
 
-5. **Navigate to the DarkCool Directory**:<br>
+5. **Navigate to the DarkCool Directory**:
 bash```
    cd DarkCool
    ```
 
-7. **Compile the Program**:<br>
+7. **Compile the Program**:
 bash```
    python setup_darkcool.py
    ```
 
-9. **Run DarkCool**:<br>
+9. **Run DarkCool**:
 bash```
    python darkcool.py
    ```
