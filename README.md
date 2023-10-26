@@ -1,10 +1,11 @@
 
 # DarkCool
 
-Welcome to the DarkCool repository! A program that offers 74 menus for various activities, as shown in the images below.
+Welcome to the DarkCool repository! A program that offers 81 menus for various activities, as shown in the images below.
 
 ![Screenshot 1](https://github.com/DarkSkull777/DarkCool/blob/main/1.jpg)
 ![Screenshot 2](https://github.com/DarkSkull777/DarkCool/blob/main/2.jpg)
+(not the latest photo)
 
 ## About
 
