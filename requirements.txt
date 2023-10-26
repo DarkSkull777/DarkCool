@@ -1,1 +1,1 @@
-*
+deleted : setup_darkcool.py
