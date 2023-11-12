@@ -3,9 +3,9 @@
 
 Welcome to the DarkCool repository! A program that offers 165 menus feature for various activities, as shown in the images below.
 
-![Screenshot 1](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-11-04-08-47-16-92_84d3000e3f4017145260f7618db1d683-picsay.jpg](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-11-12-10-05-29-56_84d3000e3f4017145260f7618db1d683-picsay.jpg)
+![Screenshot 1](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-11-12-10-05-29-56_84d3000e3f4017145260f7618db1d683-picsay.jpg)
 ![Screenshot 2](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-11-12-10-05-35-89_84d3000e3f4017145260f7618db1d683-picsay.jpg)
-![Screenshot 3]([https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-11-04-08-47-31-03_84d3000e3f4017145260f7618db1d683-picsay.jpg](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-11-12-10-05-41-99_84d3000e3f4017145260f7618db1d683-picsay.jpg)
+![Screenshot 3](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-11-12-10-05-41-99_84d3000e3f4017145260f7618db1d683-picsay.jpg)
 ![Screenshot 4](https://github.com/DarkSkull777/DarkCool/blob/main/Screenshot_2023-11-12-10-05-46-03_84d3000e3f4017145260f7618db1d683-picsay.jpg)
 
 ## About
