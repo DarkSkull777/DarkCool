@@ -30,6 +30,7 @@ Before you begin the installation, make sure you have the following prerequisite
 
 - **Operating System**: DarkCool is compatible with Windows, macOS, and Linux.
 - **Dependencies**: You'll need specific dependencies installed on your system.
+- **Error Solution***: In the event of encountering an error during the execution of the program, it is advisable to scrutinize the Python version employed. We highly recommend utilizing Python version 3.11.6 for optimal compatibility and performance.
 
 ## Installation
 
