@@ -42,6 +42,7 @@ To install DarkCool, follow these steps:
    pkg install git
    pkg install python
    pip install termcolor
+   pip install pytube
    ```
 
 2. **Clone the Repository**:
