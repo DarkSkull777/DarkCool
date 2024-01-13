@@ -22,7 +22,7 @@ Welcome to the installation guide for DarkCool, a program that adds a touch of c
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Others](#others)
+- [Update](#update)
 
 ## Prerequisites
 
