@@ -1,7 +1,7 @@
 
 # DarkCool
 
-Welcome to the DarkCool repository! A hacking program that offers 210 menus feature for various activities, as shown in the record below.
+DarkCool, a versatile Python-based security tool designed to provide leading solutions in penetration testing, forensic analysis, information security management, and automated hacking. With over 210 impressive features, DarkCool is the top choice for security professionals who prioritize diversity, ease of use, and convenience.
 
 <img src="https://github.com/DarkSkull777/DarkCool/raw/main/Rec/lv_0_20240201002048.gif" width="480" height="360">
 
