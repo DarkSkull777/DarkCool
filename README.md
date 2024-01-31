@@ -1,7 +1,7 @@
 
 # DarkCool
 
-**DarkCool**, a versatile Python-based security tool designed to provide leading solutions in __penetration testing__, __forensic analysis__, __information security management__, and __automated hacking__. With over _210 impressive features_, **DarkCool** is the top choice for security professionals who prioritize diversity, ease of use, and convenience.
+**DarkCool**, a versatile Python-based security tool designed to provide leading solutions in _penetration testing_, _forensic analysis_, _information security management_, and _automated hacking_. With over _210 impressive features_, **DarkCool** is the top choice for security professionals who prioritize diversity, ease of use, and convenience.
 
 <img src="https://github.com/DarkSkull777/DarkCool/raw/main/Rec/lv_0_20240201002048.gif" width="480" height="360">
 
