@@ -3,7 +3,10 @@
 
 Welcome to the DarkCool repository! A hacking program that offers 210 menus feature for various activities, as shown in the record below.
 
-![DarkCool](https://github.com/DarkSkull777/DarkCool/blob/main/Rec/lv_0_20240201002048.gif)
+<video width="480" height="360" autoplay loop muted playsinline>
+  <source src="https://github.com/DarkSkull777/DarkCool/blob/main/Rec/lv_0_20240201002048.gif" type="video/gif">
+  Your browser does not support the video tag.
+</video>
 
 ## About
 
