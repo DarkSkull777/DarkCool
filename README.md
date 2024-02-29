@@ -52,6 +52,7 @@ To install DarkCool, follow these steps:
    pkg install python
    pip install termcolor
    pip install pytube
+   pip install requests_oauthlib
    ```
 
 2. **Clone the Repository**:
